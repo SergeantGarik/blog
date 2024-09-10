@@ -1,9 +1,9 @@
 ---
-title: Пост по неделе с 11 по 17 сентября
-subtitle: Пост по неделе
+title: Weekly Post from September 11 to 17
+subtitle: Weekly Post
 
 # Summary for listings and search engines
-summary: Пост по неделе
+summary: Weekly Post
 
 # Link this post with a project
 projects: []
@@ -38,15 +38,13 @@ categories:
   - Weeks
 ---
 
-## Произошедшее на неделе
+## What Happened This Week
 
 ### 16.09
 
-Сегодня была первая контрольная по линейной алгебре. Я немного волновался, но, кажется, справился. Вечером снова на работе, но мысли о контрольной не покидают!
+Today was the first quiz on Linear Algebra. I was a bit nervous, but I think I did okay. In the evening, back at work, but thoughts about the quiz keep lingering!
 
 ### 17.09
 
-Провел весь день в библиотеке. Так много книг! Нашел несколько полезных материалов для подготовки к следующей контрольной. Работа в кафе была спокойной, даже успел почитать.
-
-
+Spent the whole day at the library. So many books! Found some useful materials for preparing for the next quiz. Work at the café was calm, and I even managed to read a bit.
 

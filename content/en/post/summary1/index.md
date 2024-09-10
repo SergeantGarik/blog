@@ -1,9 +1,9 @@
 ---
-title: Пост по неделе с 1 по 3 сентября
-subtitle: Пост по неделе
+title: Weekly Post from September 1 to 3
+subtitle: Weekly Post
 
 # Summary for listings and search engines
-summary: Пост по неделе
+summary: Weekly Post
 
 # Link this post with a project
 projects: []
@@ -38,17 +38,13 @@ categories:
   - Weeks
 ---
 
-## Произошедшее на неделе
+## What Happened This Week
 
 ### 01.09
 
-Сегодня был мой первый день в университете! Столько новых лиц и впечатлений. На лекции по математическому анализу я немного нервничал, но преподаватель оказался очень дружелюбным. Вечером работал в кафе, познакомился с интересными людьми!
+Today was my first day at the university! So many new faces and impressions. I was a bit nervous during the Mathematical Analysis lecture, but the professor turned out to be very friendly. In the evening, I worked at the café and met some interesting people!
 
 ### 03.09
 
-Сегодня мы с сокурсниками решили собраться на кофе после занятий. Обсудили предстоящие экзамены и поделились своими методами подготовки. Работал до позднего вечера, но это не помешало мне зарядиться позитивом!
-
-
-
-
+Today, my classmates and I decided to meet for coffee after classes. We discussed the upcoming exams and shared our study methods. I worked until late in the evening, but it didn’t stop me from feeling positive!
 

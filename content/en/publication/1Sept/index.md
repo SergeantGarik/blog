@@ -1,9 +1,9 @@
 ---
-title: День знаний Первый день в столичном вузе
-subtitle: День знаний Первый день в столичном вузе
+title: Knowledge Day First Day at the Capital University
+subtitle: Knowledge Day First Day at the Capital University
 
 # Summary for listings and search engines
-summary: Искусственный интеллект не панацея, а инструмент
+summary: Knowledge Day First Day at the Capital University
 
 # Link this post with a project
 projects: []
@@ -30,12 +30,12 @@ categories:
   
 ---
 
-Первый день сентября — это не просто начало осени, но и долгожданный День знаний. Для многих студентов этот день символизирует новые возможности и открытия. В столичном вузе атмосфера была особенно волнующей: коридоры наполнялись смехом и разговором первокурсников, которые с нетерпением ждали начала учебного года.
+The first day of September is not just the start of autumn, but also the long-awaited Knowledge Day. For many students, this day symbolizes new opportunities and discoveries. At the capital university, the atmosphere was particularly exciting: the halls were filled with the laughter and conversation of first-year students who were eagerly awaiting the start of the academic year.
 
-С утра на входе в университет студентов встречали старшекурсники с улыбками и добрыми пожеланиями. Ведущие провели торжественную линейку, где звучали поздравления и напутственные слова от преподавателей. Каждый новый студент ощущал себя частью большой и дружной семьи.
+In the morning, senior students greeted the new students at the university entrance with smiles and good wishes. The hosts conducted a ceremonial line-up where congratulations and motivational words from the faculty were shared. Every new student felt like part of a large and friendly family.
 
-После официальной части начались знакомство с преподавателями и сокурсниками. Лекции по математике и литературе открыли двери в мир знаний, который предстояло исследовать. Несмотря на волнение, многие первокурсники отметили, как быстро нашли общий язык друг с другом.
+After the official part, introductions with teachers and classmates began. The lectures in mathematics and literature opened doors to the world of knowledge that lay ahead. Despite the nervousness, many first-year students noted how quickly they found common ground with each other.
 
-Вечером, после насыщенного дня, студенты собрались в кафе, обсуждая впечатления и планы на будущее. День знаний стал не только началом учебного года, но и началом нового этапа в жизни каждого из них. С надеждой и оптимизмом они смотрели вперед, готовые к новым вызовам и достижениям.
+In the evening, after a busy day, students gathered at a café, discussing their impressions and plans for the future. Knowledge Day became not only the beginning of the academic year but also the start of a new chapter in each of their lives. With hope and optimism, they looked forward, ready for new challenges and achievements.
 
 

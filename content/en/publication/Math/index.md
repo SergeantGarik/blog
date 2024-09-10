@@ -1,9 +1,9 @@
 ---
-title:  Последние прорывы в математике
-subtitle: Последние прорывы в математике
+title: Recent Breakthroughs in Mathematics
+subtitle: Recent Breakthroughs in Mathematics
 
 # Summary for listings and search engines
-summary: Последние прорывы в математике
+summary: Recent Breakthroughs in Mathematics
 
 # Link this post with a project
 projects: []
@@ -30,13 +30,11 @@ categories:
   
 ---
 
-В последние годы математика продолжает удивлять новыми открытиями и прорывами, которые открывают новые горизонты в различных областях науки. Одним из значительных достижений стало решение гипотезы Бёрча и Свиннертона-Дайера, касающейся свойств эллиптических кривых. Это открытие, сделанное группой исследователей, может иметь глубокие последствия для теории чисел и криптографии.
+In recent years, mathematics continues to amaze with new discoveries and breakthroughs that open new horizons in various scientific fields. One significant achievement has been the resolution of the Birch and Swinnerton-Dyer hypothesis, concerning the properties of elliptic curves. This discovery, made by a group of researchers, may have profound implications for number theory and cryptography.
 
-Другим важным событием стало развитие теории машинного обучения, где математики применяют сложные алгоритмы для анализа больших данных. Применение методов оптимизации и линейной алгебры позволяет значительно улучшить качество предсказаний в таких областях, как медицина и финансы.
+Another important event has been the development of machine learning theory, where mathematicians apply complex algorithms to analyze large datasets. The application of optimization methods and linear algebra allows for significant improvements in prediction quality in fields such as medicine and finance.
 
-Также стоит отметить достижения в области топологии, где исследователи изучают свойства пространств, остающиеся неизменными при непрерывных деформациях. Прорывы в этой области помогают лучше понять структуру многомерных объектов и имеют приложения в физике и компьютерных науках.
+Also noteworthy are the achievements in topology, where researchers study the properties of spaces that remain unchanged under continuous deformations. Breakthroughs in this area help to better understand the structure of multidimensional objects and have applications in physics and computer science.
 
-Эти достижения подчеркивают важность математики как основы для многих научных дисциплин и показывают, что впереди нас ждут еще более захватывающие открытия. Математика продолжает оставаться движущей силой прогресса в нашем мире.
-
-
+These achievements highlight the importance of mathematics as a foundation for many scientific disciplines and demonstrate that even more exciting discoveries lie ahead. Mathematics continues to be a driving force for progress in our world.
 

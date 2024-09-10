@@ -1,9 +1,9 @@
 ---
-title: Пост по неделе с 18 по 24 сентября
-subtitle: Пост по неделе
+title: Weekly Post from September 18 to 24
+subtitle: Weekly Post
 
 # Summary for listings and search engines
-summary: Пост по неделе
+summary: Weekly Post
 
 # Link this post with a project
 projects: []
@@ -38,20 +38,17 @@ categories:
   - Weeks
 ---
 
-## Произошедшее на неделе
+## What Happened This Week
 
 ### 20.09
-Взял паузу от учёбы и пошёл в спортзал. Физическая активность помогает мне разгрузиться. Вечером работал, и коллеги поддержали меня в разговоре о спорте!
+Took a break from studying and went to the gym. Physical activity helps me unwind. In the evening, worked, and my colleagues joined in a conversation about sports!
 
 ### 22.09
-Сегодня встретился с преподавателем по математическому анализу для консультации. Он подсказал мне несколько полезных ресурсов. После работы в кафе мы обсуждали его любимые книги!
+Met with my Mathematical Analysis professor for a consultation. He suggested some useful resources. After work at the café, we talked about his favorite books!
 
 ### 23.09
-Собрались с группой для работы над проектом. Обсуждали интересные задачи. Вечером на работе был наплыв клиентов, но это только добавило адреналина!
+Got together with my group to work on a project. Discussed interesting problems. In the evening, there was a rush of customers at work, which only added to the adrenaline!
 
 ### 24.09
-Сегодня выходной! Наконец-то отдохнул от учёбы и работы. Сходил на выставку в музей, вдохновился новыми идеями. Завтра снова в бой!
-
-
-
+Today is a day off! Finally took a break from studying and working. Went to a museum exhibition, got inspired by new ideas. Back to the grind tomorrow!
 

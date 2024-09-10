@@ -1,9 +1,9 @@
 ---
-title: Пост по неделе с 25 сентября по 1 октября
-subtitle: Пост по неделе
+title: Weekly Post from September 25 to October 1
+subtitle: Weekly Post
 
 # Summary for listings and search engines
-summary: Пост по неделе
+summary: Weekly Post
 
 # Link this post with a project
 projects: []
@@ -38,32 +38,29 @@ categories:
   - Weeks
 ---
 
-## Произошедшее на неделе
+## What Happened This Week
 
 ### 25.09
 
-Сегодня на лекции разобрали сложные темы по дифференциальным уравнениям. Понял, что нужно больше практики. Решил сменить место работы
+Today we covered complex topics in differential equations during the lecture. Realized that I need more practice. Decided to change my workplace.
 
 ### 27.09
 
-Работаю в новой кофейне! Атмосфера здесь невероятная, а клиенты очень дружелюбные. Сегодня даже завел разговор с одним математиком — было интересно!
+Started working at a new coffee shop! The atmosphere here is incredible, and the customers are very friendly. Even had an interesting conversation with a mathematician!
 
 ### 28.09
 
-Собрались с группой для подготовки к контрольной. Каждый делился своими знаниями и методами. Вечером на работе было много клиентов, но я справился!
+Gathered with my group to prepare for the upcoming test. Everyone shared their knowledge and methods. The evening at work was busy, but I managed well!
 
 ### 29.09
 
-Сегодня на факультете прошел праздник знаний! Участвовали в конкурсах и викторинах. После работы встретил старых друзей — было здорово вспомнить школьные годы.
+Had a Knowledge Festival at the faculty today! Participated in various contests and quizzes. After work, met some old friends — it was great to reminisce about school days.
 
 ### 30.09
 
-Сегодня столкнулся с трудностями в учебе — не смог решить несколько задач. Попросил помощи у сокурсников, и они с радостью помогли. На работе тоже было непросто, но я справился!
+Faced some challenges with my studies today — couldn't solve a few problems. Asked my classmates for help, and they were happy to assist. Work was also tough, but I got through it!
 
 ### 01.10
 
-Подводя итоги месяца: много учился, работал и познакомился с классными людьми. Чувствую, что расту и развиваюсь! Надеюсь, следующий месяц будет не менее насыщенным!
-
-
-
+Reflecting on the month: studied hard, worked, and met some great people. I feel like I'm growing and developing! Hoping the next month will be just as eventful!
 

@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Данила Жернаков
+title: Danila Zhernakov
 
 # Name pronunciation (optional)
-name_pronunciation: Данила Жернаков
+name_pronunciation: Danila Zhernakov
 
 # Full name (for SEO)
-first_name: Данила
-last_name: Жернаков
+first_name: Danila
+last_name: Zhernakov
 
 # Status emoji
 status:
@@ -29,20 +29,20 @@ profiles:
     url: https://github.com/SergeantGarik
 
 interests:
-  - История
-  - Спорт
-  - Войти в АйТи
+  - History
+  - Sports
+  - Entering IT
 
 education:
-  - area: Математика и механика
-    institution: РУДН
+  - area: Mathematics and Mechanics
+    institution: RUDN
     date_start: 2022-09-01
     date_end: 2026-06-25
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Программирование
+  - name: Programming
     items:
       - name: C++
         description: ''
@@ -52,14 +52,14 @@ skills:
         description: ''
         percent: 10
         icon: chart-bar
-  - name: Увлечения
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Футбол
+      - name: Soccer
         description: ''
         percent: 90
-      - name: Качалка
+      - name: Gym
         description: ''
         percent: 100
 
@@ -77,4 +77,5 @@ languages:
 
 ## About Me
 
-Меня зовут Данила Жернаков, я родился и вырос в Архангельске. Учился в школе № 8, где увлекся историей и спортом. После окончания школы я переехал в Москву в поисках новых возможностей. Здесь я работаю в общепите уже два года, и мне нравится общаться с людьми и развиваться в этой сфере. Моя семья всегда поддерживала меня: родители вдохновили на смелые шаги, а младшая сестра стала моим верным другом. Несмотря на трудности переезда, я чувствую, что нашел свое место в большом городе и стремлюсь к новым достижениям.
+My name is Danila Zhernakov. I was born and raised in Arkhangelsk. I studied at School No. 8, where I developed a passion for history and sports. After finishing school, I moved to Moscow in search of new opportunities. Here, I have been working in the hospitality industry for two years, and I enjoy interacting with people and growing in this field. My family has always supported me: my parents inspired me to take bold steps, and my younger sister has become my faithful friend. Despite the challenges of moving, I feel that I have found my place in the big city and am striving for new achievements.
+
